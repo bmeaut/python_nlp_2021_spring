@@ -44,7 +44,7 @@ After this, you are all set up to clone repositories with SSH.
 ## Jupyter
 ---
 
-Jupyter notebooks are web-based interactive development environments. They are mostly used for experimental development, testing out small scripts or doing data analysis. For this reason, Jupyter notebooks are suitable for completing the homework assignments. Installing it is fairly straightforward. We recommend doing it via the package manager conda (either the miniconda or the miniforge conda distributions include a minimal conda installation). You can do this by either installing the whole Anaconda distribution from: https://docs.anaconda.com/anaconda/install/, or just a miniconda installation (this requires less disk place): https://docs.conda.io/en/latest/miniconda.html. In your terminal, you should run (on Windows you should use Git bash for executing the commands):
+Jupyter notebooks are web-based interactive development environments. They are mostly used for experimental development, testing out small scripts or doing data analysis. For this reason, Jupyter notebooks are suitable for completing the homework assignments. Installing it is fairly straightforward. We recommend doing it via the package manager conda (either the miniconda or the miniforge conda distributions include a minimal conda installation). You can do this by either installing the whole Anaconda distribution from: https://docs.anaconda.com/anaconda/install/, or just a miniconda installation (this requires less disk place): https://docs.conda.io/en/latest/miniconda.html. In your terminal, you should run (on Windows you should use Anaconda Prompt or Git bash for executing the commands):
 
 ```bash
 conda install -c conda-forge notebook
