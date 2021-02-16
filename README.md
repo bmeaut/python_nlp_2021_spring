@@ -35,3 +35,8 @@ Week|Topic|Lecture|Lab
 11|Advanced Python 1|04/27/2021|04/29/2021
 12|Advanced Python 2|05/04/2021|05/06/2021
 13|Homework presentation|05/11/2021|05/13/2021
+
+
+### Useful links
+
+We created a [guide](./guides/env-setup-guide.md) on how to easily set up Git, SSH and Jupyter.
