@@ -38,5 +38,5 @@ Week|Topic|Lecture|Lab
 
 
 ### Useful links
-
-We created a [guide](./guides/env-setup-guide.md) on how to easily set up Git, SSH and Jupyter.
+- You can find a list of homework ideas [here](https://docs.google.com/document/d/1TBXu5Y6vgukui9kds1MM90cSK2xdiDgFmZYx50YA4y8/edit?usp=sharing). It is not a final list, we will continuously add new ideas.
+- We created a [guide](./guides/env-setup-guide.md) on how to easily set up Git, SSH and Jupyter.
