@@ -13,7 +13,7 @@ def foo(value: float) -> None:
     print(value, value + 1)
 
 
-def bar(value: float) -> int:
+def bar(value: int) -> int:
     foo(value)
     return 0
 
@@ -30,9 +30,14 @@ def print_all(elements: Sequence, prefix: Optional[str] = None) -> None:
             print(e)
 
 
+def call_happy(name: str, age: Union[list, int, str]) -> None:
+    print(happy_birthday(name, age))
+
+
 def main():
-    print(happy_birthday("John", 25))
-    print_all([1, "abc", "def"])
+    # bar(42)
+    call_happy("John", [1, 2, 3])
+    # print_all([1, "abc", "def"])
 
 
 if __name__ == '__main__':
