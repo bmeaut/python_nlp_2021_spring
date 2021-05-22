@@ -1,5 +1,9 @@
 # Introduction to Python and Human Language Technologies
 
+## Exam topics
+
+[here](Exam.md)
+
 ### Time and place
 - Lecture: Tuesdays, 12.15 pm. - 2.00 pm, starting on February 9th
 - Lab: Thursdays, 12.15 pm. - 2.00 pm, starting on February 11th
