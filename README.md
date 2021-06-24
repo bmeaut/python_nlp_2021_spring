@@ -1,6 +1,7 @@
 # Introduction to Python and Human Language Technologies
 
 This course gives an introduction to natural language processing using the Python programming language.
+The course ran as an elective course at the [Faculty of Electrical Engineering and Informatics](http://www.vik.bme.hu/en/) of the [Budapest Universiy of Technology and Economics](http://www.bme.hu/?language=en), Hungary.
 
 This course is split into two parts:
 1. a Python introduction for experienced programmers who are new to the Python programming language
