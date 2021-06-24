@@ -18,7 +18,7 @@ Main lecturer|Head TA|Head TA|TA (demonstrator)|TA (demonstrator)
 ### Syllabus
 
 Lecture|Assignment
-----|-----|-------
+-----|-------
 [Intro](lectures/01_Introduction.ipynb) + [Python Intro](lectures/01_Python_introduction.ipynb) | [Assignment](assignments/01_Python_introduction_lab.ipynb)
 [Built-in types, functions](lectures/02_Types_Operators_Strings.ipynb) | [Assignment](assignments/02_Types_Operators_Strings_lab.ipynb)
 [OOP](lectures/03_Object_oriented_programming.ipynb) | [Assignment](assignments/03_Object_oriented_programming_lab.ipynb)
