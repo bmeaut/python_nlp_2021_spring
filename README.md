@@ -9,7 +9,7 @@ This course is split into two parts:
 
 ## Instructors
 
-[Judit Ács](https://hlt.bme.hu/en/judit) |[Ádám Kovács](https://hlt.bme.hu/en/kovacsadam)|[Kinga Gémes](https://hlt.bme.hu/en/kinga) |[Attila Nagy](https://github.com/attilanagy234)|Balázs Frey
+[Judit Ács](https://hlt.bme.hu/en/judit) |[Ádám Kovács](https://hlt.bme.hu/en/kovacsadam)|[Kinga Gémes](https://hlt.bme.hu/en/kinga) |[Attila Nagy](https://github.com/attilanagy234)|[Balázs Frey](https://github.com/Freyb)
 :-------:|:---------:|:---------:|:---------:|:---------:
 Main lecturer|Head TA|Head TA|TA (demonstrator)|TA (demonstrator)
 ![Judit](lectures/img/people/judit.jpg)|![Adam](lectures/img/people/adam.jpg)|![King](lectures/img/people/kinga.jpg)|![Attila](lectures/img/people/attila.jpg)|![Balazs](lectures/img/people/balazs.jpg)
