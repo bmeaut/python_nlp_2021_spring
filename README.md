@@ -15,6 +15,25 @@ Judit Ács|Ádám Kovács|Kinga Gémes|Attila Nagy|Balázs Frey
 Main lecturer|Head TA|Head TA|TA (demonstrator)|TA (demonstrator)
 ![Judit](lectures/img/people/judit.jpg)|![Adam](lectures/img/people/adam.jpg)|![King](lectures/img/people/kinga.jpg)|![Attila](lectures/img/people/attila.jpg)|![Balazs](lectures/img/people/balazs.jpg)
 
+### Syllabus
+
+Lecture|Assignment
+----|-----|-------
+[Intro](lectures/01_Introduction.ipynb) + [Python Intro](lectures/01_Python_introduction.ipynb) | [Assignment](assignments/01_Python_introduction_lab.ipynb)
+[Built-in types, functions](lectures/02_Types_Operators_Strings.ipynb) | [Assignment](assignments/02_Types_Operators_Strings_lab.ipynb)
+[OOP](lectures/03_Object_oriented_programming.ipynb) | [Assignment](assignments/03_Object_oriented_programming_lab.ipynb)
+[List comprehension, context managers, functional Python](lectures/11_List_comprehension_iteration_context_managers_functional.ipynb) | [Assignment](assignments/11_List_comprehension_iteration_context_managers_functional_lab.ipynb)
+[Decorators, typehints](lectures/12_Decorators_typehints.ipynb) | [Assignment](assignments/12_Decorators_lab.ipynb)
+[Numpy](lectures/04_Numpy.ipynb) | [Assignment](assignments/04_Numpy_lab.ipynb)
+[Data science, pandas](lectures/05_Data_Science.ipynb) | [Assignment](assignments/05_Data_science_lab.ipynb)
+[NLP Intro](lectures/06_Intro_to_NLP.ipynb) | [Assignment](assignments/06_NLP_intro_lab.ipynb)
+[Deep learning Intro](lectures/07_Deep_learning_NLP.ipynb) | [Assignment](assignments/07_Deep_learning_in_NLP_intro_lab.ipynb)
+[Sequence modeling](lectures/08_Sequence_modeling.ipynb) + [Data preparation](lectures/08_Prepare_unimorph_data.ipynb) | [Assignment](assignments/08_Sequence_modeling_lab.ipynb)
+[Transformers (BERT)](lectures/09_Transformers_BERT.ipynb) | [Assignment](assignments/09_Transformers_lab.ipynb)
+[NLP applications, Universal Dependencies](lectures/10_NLP_Applications_Dependency_Parsing.ipynb) | [Assignment](assignments/10_NLP_applications_lab.ipynb)
+
+The numbering of the lectures and assignments is different from their order in the syllabus.
+
 [Official course syllabus and requirements (TAD)](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV35/en/)
 
 Previous offerings
@@ -44,3 +63,4 @@ Week|Topic|Lecture|Lab
 ### Useful links
 - You can find a list of homework ideas [here](https://docs.google.com/document/d/1TBXu5Y6vgukui9kds1MM90cSK2xdiDgFmZYx50YA4y8/edit?usp=sharing). It is not a final list, we will continuously add new ideas.
 - We created a [guide](./guides/env-setup-guide.md) on how to easily set up Git, SSH and Jupyter.
+
