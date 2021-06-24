@@ -1,27 +1,31 @@
 # Introduction to Python and Human Language Technologies
 
-## Exam topics
+This course gives an introduction to natural language processing using the Python programming language.
 
-[here](Exam.md)
+This course is split into two parts:
+1. a Python introduction for experienced programmers who are new to the Python programming language
+2. an introduction to **natural language processing**, an important subfield of artificial intelligence. 
 
-### Time and place
-- Lecture: Tuesdays, 12.15 pm. - 2.00 pm, starting on February 9th
-- Lab: Thursdays, 12.15 pm. - 2.00 pm, starting on February 11th
+## Instructors
 
-### Instructors
-
-Judit Ács|Ádám Kovács|Kinga Gémes|Attila Nagy|Balázs Frey
+[Judit Ács](https://hlt.bme.hu/en/judit) |[Ádám Kovács](https://hlt.bme.hu/en/kovacsadam)|[Kinga Gémes](https://hlt.bme.hu/en/kinga) |[Attila Nagy](https://github.com/attilanagy234)|Balázs Frey
 :-------:|:---------:|:---------:|:---------:|:---------:
 Main lecturer|Head TA|Head TA|TA (demonstrator)|TA (demonstrator)
 ![Judit](lectures/img/people/judit.jpg)|![Adam](lectures/img/people/adam.jpg)|![King](lectures/img/people/kinga.jpg)|![Attila](lectures/img/people/attila.jpg)|![Balazs](lectures/img/people/balazs.jpg)
 
-### Syllabus
+Other contributors:
+
+1. [Gábor Recski](https://hlt.bme.hu/en/recski)
+2. [Dávid Márk Nemeskey](https://hlt.bme.hu/en/david)
+3. [Gábor Borbély](https://hlt.bme.hu/en/gaebor)
+
+## Syllabus
 
 Lecture|Assignment
 -----|-------
 [Intro](lectures/01_Introduction.ipynb) + [Python Intro](lectures/01_Python_introduction.ipynb) | [Assignment](assignments/01_Python_introduction_lab.ipynb)
 [Built-in types, functions](lectures/02_Types_Operators_Strings.ipynb) | [Assignment](assignments/02_Types_Operators_Strings_lab.ipynb)
-[OOP](lectures/03_Object_oriented_programming.ipynb) | [Assignment](assignments/03_Object_oriented_programming_lab.ipynb)
+[Object oriented programming in Python](lectures/03_Object_oriented_programming.ipynb) | [Assignment](assignments/03_Object_oriented_programming_lab.ipynb)
 [List comprehension, context managers, functional Python](lectures/11_List_comprehension_iteration_context_managers_functional.ipynb) | [Assignment](assignments/11_List_comprehension_iteration_context_managers_functional_lab.ipynb)
 [Decorators, typehints](lectures/12_Decorators_typehints.ipynb) | [Assignment](assignments/12_Decorators_lab.ipynb)
 [Numpy](lectures/04_Numpy.ipynb) | [Assignment](assignments/04_Numpy_lab.ipynb)
@@ -36,10 +40,19 @@ The numbering of the lectures and assignments is different from their order in t
 
 [Official course syllabus and requirements (TAD)](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV35/en/)
 
-Previous offerings
+## Previous offerings
+
 - [2020 fall](https://github.com/bmeaut/python_nlp_2020_fall)
 - [2018 spring](https://github.com/bmeaut/python_nlp_2018_spring)
 - [2017 fall](https://github.com/bmeaut/python_nlp_2017_fall)
+
+## Exam topics
+
+[here](Exam.md)
+
+### Time and place
+- Lecture: Tuesdays, 12.15 pm. - 2.00 pm, starting on February 9th
+- Lab: Thursdays, 12.15 pm. - 2.00 pm, starting on February 11th
 
 ### Schedule
 
